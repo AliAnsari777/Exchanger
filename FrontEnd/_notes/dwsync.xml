@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="favicon.ico" server="C:/wamp/www/Exchange/" local="131044813942924051" remote="131044813940000000" Dst="0" />
+<file name="jquery.js" server="C:/wamp/www/Exchange/" local="131044813943424080" remote="131044813940000000" Dst="0" />
+<file name="script.js" server="C:/wamp/www/Exchange/" local="131044813943914108" remote="131044813940000000" Dst="0" />
+<file name="script.responsive.js" server="C:/wamp/www/Exchange/" local="131044813943604090" remote="131044813940000000" Dst="0" />
+<file name="style.css" server="C:/wamp/www/Exchange/" local="131069445610000000" remote="131069445610000000" Dst="0" />
+<file name="style.ie7.css" server="C:/wamp/www/Exchange/" local="131044813943624091" remote="131044813940000000" Dst="0" />
+<file name="style.responsive.css" server="C:/wamp/www/Exchange/" local="131044813943684095" remote="131044813940000000" Dst="0" />
+<file name="clients.php" server="C:/wamp/www/Exchange/" local="131073791192815915" remote="131073791190000000" Dst="0" />
+<file name="home.php" server="C:/wamp/www/Exchange/" local="131075104179991838" remote="131075104170000000" Dst="0" />
+<file name="users.php" server="C:/wamp/www/Exchange/" local="131072505116484553" remote="131072505110000000" Dst="0" />
+<file name="capital.php" server="C:/wamp/www/Exchange/" local="131072504968436085" remote="131072504960000000" Dst="0" />
+<file name="transactions.php" server="C:/wamp/www/Exchange/" local="131068219530258107" remote="131068219530000000" Dst="0" />
+<file name="newClientForm.php" server="C:/wamp/www/Exchange/" local="131053617978718252" remote="131053617970000000" Dst="0" />
+<file name="editClient.php" server="C:/wamp/www/Exchange/" local="131075145978002547" remote="131075145970000000" Dst="0" />
+<file name="confirmClientDelet.php" server="C:/wamp/www/Exchange/" local="131057390740613300" remote="131057390740000000" Dst="0" />
+<file name="newTransactionForm.php" server="C:/wamp/www/Exchange/" local="131064942366294675" remote="131064942360000000" Dst="0" />
+<file name="editTransactionForm.php" server="C:/wamp/www/Exchange/" local="131055238518259004" remote="131055238510000000" Dst="0" />
+<file name="confirmTransactionDelete.php" server="C:/wamp/www/Exchange/" local="131070124616145998" remote="131070124610000000" Dst="0" />
+<file name="newUserForm.php" server="C:/wamp/www/Exchange/" local="131080304107922512" remote="131080304100000000" Dst="0" />
+<file name="addCapitalForm.php" server="C:/wamp/www/Exchange/" local="131064986819817271" remote="131064986810000000" Dst="0" />
+<file name="editCapital.php" server="C:/wamp/www/Exchange/" local="131061210610780840" remote="131061210610000000" Dst="0" />
+<file name="confirmCapitalDelete.php" server="C:/wamp/www/Exchange/" local="131057184333763713" remote="131057184330000000" Dst="0" />
+<file name="editUserForm.php" server="C:/wamp/www/Exchange/" local="131057378744037135" remote="131057378740000000" Dst="0" />
+<file name="confirmUserDelete.php" server="C:/wamp/www/Exchange/" local="131057389718114817" remote="131057389710000000" Dst="0" />
+<file name="print.css" server="C:/wamp/www/Exchange/" local="131070872447731771" remote="131070872440000000" Dst="0" />
+<file name="dailyReport.php" server="C:/wamp/www/Exchange/" local="131080411288992918" remote="131080411280000000" Dst="0" />
+<file name="newTempClientForm.php" server="C:/wamp/www/Exchange/" local="131064939273477776" remote="131064939270000000" Dst="0" />
+<file name="editTempClient.php" server="C:/wamp/www/Exchange/" local="131064383432002235" remote="131064383430000000" Dst="0" />
+<file name="confirmTempClientDelete.php" server="C:/wamp/www/Exchange/" local="131064663655655468" remote="131064663650000000" Dst="0" />
+<file name="transmission.php" server="C:/wamp/www/Exchange/" local="131074647054387294" remote="131074647050000000" Dst="0" />
+<file name="newTransmissionForm.php" server="C:/wamp/www/Exchange/" local="131075187041381238" remote="131075187040000000" Dst="0" />
+<file name="editTransmission.php" server="C:/wamp/www/Exchange/" local="131070038129849265" remote="131070038120000000" Dst="0" />
+<file name="confirmTransmissionDelete.php" server="C:/wamp/www/Exchange/" local="131070109896974110" remote="131070109890000000" Dst="0" />
+<file name="transmissionCompanies.php" server="C:/wamp/www/Exchange/" local="131076831611963352" remote="131076831610000000" Dst="0" />
+<file name="newCompanyForm.php" server="C:/wamp/www/Exchange/" local="131072779284450365" remote="131072779280000000" Dst="0" />
+<file name="editTransmissionCompanies.php" server="C:/wamp/www/Exchange/" local="131075143839290220" remote="131075143830000000" Dst="0" />
+<file name="confirmCompanyDelete.php" server="C:/wamp/www/Exchange/" local="131073387010000000" remote="131073387010000000" Dst="0" />
+</dwsync>

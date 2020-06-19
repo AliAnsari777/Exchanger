@@ -1,0 +1,19 @@
+/* CSS Document */
+h1, h2, p{
+	text-align:center;
+	}
+	
+table, tr, td, th{
+	border:solid 1px #000000;
+	border-collapse:collapse;
+	direction:rtl;
+	margin-left:5px;
+}
+
+td{
+	padding:4px;
+}
+
+.art-footer{
+	text-align:center;
+}

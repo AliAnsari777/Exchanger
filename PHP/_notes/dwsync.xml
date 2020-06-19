@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="classes.php" server="C:/wamp/www/Exchange/" local="131080981634077351" remote="131080981630000000" Dst="0" />
+<file name="connection.php" server="C:/wamp/www/Exchange/" local="131070939576180018" remote="131070939570000000" Dst="0" />
+<file name="newClient.php" server="C:/wamp/www/Exchange/" local="131072511010000000" remote="131072511010000000" Dst="0" />
+<file name="newUser.php" server="C:/wamp/www/Exchange/" local="131070858865764927" remote="131070858860000000" Dst="0" />
+<file name="searchClient.php" server="C:/wamp/www/Exchange/" local="131057167101950133" remote="131057167100000000" Dst="0" />
+<file name="logout.php" server="C:/wamp/www/Exchange/" local="131070948879372130" remote="131070948870000000" Dst="0" />
+<file name="updateClient.php" server="C:/wamp/www/Exchange/" local="131057166055430276" remote="131057166050000000" Dst="0" />
+<file name="deleteClient.php" server="C:/wamp/www/Exchange/" local="131054750464751834" remote="131054750460000000" Dst="0" />
+<file name="newTransaction.php" server="C:/wamp/www/Exchange/" local="131069032305230774" remote="131069032300000000" Dst="0" />
+<file name="updateTransaction.php" server="C:/wamp/www/Exchange/" local="131065992108316990" remote="131065992100000000" Dst="0" />
+<file name="deleteTransactions.php" server="C:/wamp/www/Exchange/" local="131070108519685333" remote="131070108510000000" Dst="0" />
+<file name="searchTransaction.php" server="C:/wamp/www/Exchange/" local="131060597839275782" remote="131060597830000000" Dst="0" />
+<file name="currencyFilter.php" server="C:/wamp/www/Exchange/" local="131057168606886210" remote="131057168600000000" Dst="0" />
+<file name="addCapital.php" server="C:/wamp/www/Exchange/" local="131069892567388660" remote="131069892560000000" Dst="0" />
+<file name="updateCapital.php" server="C:/wamp/www/Exchange/" local="131065990424140661" remote="131065990420000000" Dst="0" />
+<file name="deleteCapital.php" server="C:/wamp/www/Exchange/" local="131056464456507697" remote="131056464450000000" Dst="0" />
+<file name="capitalFilter.php" server="C:/wamp/www/Exchange/" local="131057163252589962" remote="131057163250000000" Dst="0" />
+<file name="updateUser.php" server="C:/wamp/www/Exchange/" local="131057376897531521" remote="131057376890000000" Dst="0" />
+<file name="deleteUser.php" server="C:/wamp/www/Exchange/" local="131057408838898463" remote="131057408830000000" Dst="0" />
+<file name="filterCapital.php" server="C:/wamp/www/Exchange/" local="131061261658660612" remote="131061261650000000" Dst="0" />
+<file name="filterDate.php" server="C:/wamp/www/Exchange/" local="131063113869625517" remote="131063113860000000" Dst="0" />
+<file name="searchTempClient.php" server="C:/wamp/www/Exchange/" local="131063218408534800" remote="131063218400000000" Dst="0" />
+<file name="newTempClient.php" server="C:/wamp/www/Exchange/" local="131069032772997528" remote="131069032770000000" Dst="0" />
+<file name="updateTempClient.php" server="C:/wamp/www/Exchange/" local="131065992280276826" remote="131065992280000000" Dst="0" />
+<file name="deleteTempClient.php" server="C:/wamp/www/Exchange/" local="131064664873635133" remote="131064664870000000" Dst="0" />
+<file name="jalaliDate.php" server="C:/wamp/www/Exchange/" local="131016886200000000" remote="131016886200000000" Dst="0" />
+<file name="transmissionCurrenyFilter.php" server="C:/wamp/www/Exchange/" local="131073417330192470" remote="131073417330000000" Dst="0" />
+<file name="searchTransmission.php" server="C:/wamp/www/Exchange/" local="131072979273688592" remote="131072979270000000" Dst="0" />
+<file name="newTransmission.php" server="C:/wamp/www/Exchange/" local="131072968971459338" remote="131072968970000000" Dst="0" />
+<file name="updateTransmission.php" server="C:/wamp/www/Exchange/" local="131070827279888318" remote="131070827270000000" Dst="0" />
+<file name="deleteTransmission.php" server="C:/wamp/www/Exchange/" local="131070108399358451" remote="131070108390000000" Dst="0" />
+<file name="newCompany.php" server="C:/wamp/www/Exchange/" local="131072763097974551" remote="131072763090000000" Dst="0" />
+<file name="updateTransmissionCompany.php" server="C:/wamp/www/Exchange/" local="131072775556147118" remote="131072775550000000" Dst="0" />
+<file name="deleteCompany.php" server="C:/wamp/www/Exchange/" local="131072898523989974" remote="131072898520000000" Dst="0" />
+<file name="searchTransmissionCompany.php" server="C:/wamp/www/Exchange/" local="131073356569087758" remote="131073356560000000" Dst="0" />
+</dwsync>
